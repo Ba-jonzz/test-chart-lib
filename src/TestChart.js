@@ -1,6 +1,6 @@
 import Chart from 'library-chart';
 
-const TestCart = () => {
+const TestChart = () => {
 
 const data = [
     {name: "100", value: 60, category: 'bobi'},
@@ -28,4 +28,4 @@ const data = [
   )
 }
 
-export default TestCart
+export default TestChart
